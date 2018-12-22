@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Roboto,sans-serif;
+	background-image: url("img/congr.jpg");
+}
+
+.my-container a {
+	font-size: 25px;
+	font-weight: 100px;
+	
+}
+
+.section-right {
+	background-image: url(img/new.png);: 
+}
+
+.section-right img {
+width: 100%;
+}
+
+}
+
+.right {
+	background-color: red;
+}
+.right p {
+	font-size: 35px;
+	font-weight: 15px;
+	color: #ffffff;
+}
